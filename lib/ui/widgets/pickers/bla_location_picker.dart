@@ -1,5 +1,5 @@
-import 'package:blabla/services/location_service.dart';
-import 'package:blabla/ui/widgets/display/bla_divider.dart';
+import 'package:blabla2/services/location_service.dart';
+import 'package:blabla2/ui/widgets/display/bla_divider.dart';
 import 'package:flutter/material.dart';
 
 import '../../../model/ride/locations.dart';
